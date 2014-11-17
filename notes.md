@@ -13,4 +13,5 @@ Virtualisation:
 - Virtualisation des applications: une couche d'apstraction permet de rendre les applications indépendantes des OS
   - Wine, JVM, Languages interprétés
 - Virtualsiation du réseau: on partage le physique et on masque aux usilisateurs la virtualsiation. Onparle alors de VLAN Virtual LAN.
-- Virtualisation du stockage:
+- Virtualisation du stockage: Généralisation de la notion de partitions sur des agrégations réparties (d)
+  - Ajout de disque/supression de disque sans coupure
